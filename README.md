@@ -1,3 +1,3 @@
-# kaggle-functions
+# kaggle-tools
 
-This repository contains functions that I tend to use often in Kaggle notebooks.
+This repository contains functions and tools that I often use in Kaggle notebooks.
