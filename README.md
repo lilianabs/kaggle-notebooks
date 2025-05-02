@@ -1,5 +1,5 @@
 # kaggle-notebooks
 
-This repository contains sample notebooks that are useful for Kaggle.
+This repository contains the following notebooks that are useful for Kaggle competitions:
 
-Functions from [text_preprocessing](https://github.com/lilianabs/text_preprocessing/tree/main)
+- Notebook from article [Does Random Forest overfit?](https://mljar.com/blog/random-forest-overfitting/)
